@@ -41,8 +41,10 @@ Select Bundling :
 1. XL ( {hijo}1 B, 3 B{xxx} )
 2. POLYTRON ({hijo} 3 B{xxx} )
 3. TCL_TV ({hijo} 1 B, 1 T{xxx} )
-4. COOCCA ({hijo} 3 B, 1 T{xxx} )""")
+4. COOCCA ({hijo} 3 B, 1 T{xxx} )
+   example : 1 : 3""")
 kdh = input("select :")
+print(f"Selecting {kdh}")
 print(f"""
 SELECT METHODE EMAIL
 1. mail10minute    2. mailpedia
@@ -56,6 +58,12 @@ ok = input(f"R/M : ")
 print(f"""
 STARTING{hijo}.....{xxx}
 
-[ {mer} in process{xxx} ]
+[ server : nginx ]
+>> CHECKPOINT <<
+>> Email : Tzyadjkow@esex.com
+>> Password : nake8ya@#
+>> Username : Nindi Kharisma
+
+[ {mer} jeda dulu coy{xxx} ]
 """)
 ok = input('')
